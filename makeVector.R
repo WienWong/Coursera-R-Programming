@@ -1,4 +1,6 @@
 
+# This is an example code written by Roger D. Peng.
+
 makeVector <- function(x = numeric()) {
     m <- NULL
     set <- function(y) {
