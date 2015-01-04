@@ -1,4 +1,6 @@
 
+# This is an example code written by Roger D. Peng.
+
 cachemean <- function(x, ...) {
     m <- x$getmean()
     if(!is.null(m)) {
